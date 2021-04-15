@@ -1,0 +1,15 @@
+aiohttp
+aiosqlite
+asyncio
+bs4
+cryptg
+databases
+databases[sqlite]
+hachoir
+html.parser
+pillow
+python-dateutil
+pytz
+requests
+sqlalchemy<1.4.0  # https://github.com/tulir/mautrix-telegram/issues/597
+Telethon
