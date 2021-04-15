@@ -1,0 +1,10 @@
+.history/
+.idea/
+.tox/
+.vscode/
+*.log
+venv/
+*.session
+*.sql
+__pycache__
+*.db
